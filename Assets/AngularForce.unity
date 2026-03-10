@@ -920,8 +920,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e48c99893b4e61c49bb8d73c9b331857, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::magnusEffectKick
-  SpinAmount: 9.2
-  KickForce: 24.3
+  SpinAmount: 10
+  KickForce: 26.3
   MagnusStrength: 0.5
 --- !u!1 &1172881267
 GameObject:
